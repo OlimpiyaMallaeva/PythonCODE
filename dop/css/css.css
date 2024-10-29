@@ -1,0 +1,44 @@
+.container {
+    display: block;
+    justify-content: center;
+    width: 100%;
+    max-width: 800px;
+    text-align: flex;
+    margin-left:  auto;
+    margin-right: auto;
+    background-color:rgba(60, 179, 114, 0.123);
+    font-family: 'Monserat', cursive;;
+  
+}
+img {
+    margin: 40px;
+}
+
+h2, h3 {
+    color: black;
+    white-space: pre;
+
+}
+
+h1 {
+    color:slateblue;
+    margin: 15px;
+    white-space: pre;
+}
+
+h2, h3 {
+    margin: 35px;
+}
+
+h3.after {
+    text-indent: 40px;
+}
+
+h3.after_after {
+    text-indent: 80px;
+}
+
+h5 {
+    margin: 15px;
+    color:mediumslateblue;
+}
